@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1593807133 source:e:\desktop\tsp virtual\laboratorio de computación i\generala\generalalab1\generala.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"generala.h"
+
+1593807589 e:\desktop\tsp virtual\laboratorio de computación i\generala\generalalab1\generala.h
+
+1593807115 source:e:\desktop\tsp virtual\laboratorio de computación i\generala\generalalab1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"generala.h"
+
